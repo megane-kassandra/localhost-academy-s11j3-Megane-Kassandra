@@ -97,8 +97,6 @@ __pycache__/
 .venv/
 ```
 
-**Important :** `hotel.db` reste local et ne doit pas être publié sur GitHub. Le dépôt doit contenir `hotel.sql`, qui permet à toute personne de reconstruire la base avec DB Browser for SQLite.
-
 ## 8. Remarque sur le périmètre
 
 Conformément au sujet, cette version du projet ne vérifie pas encore les chevauchements de réservations pour une même chambre. Le modèle ne définit donc pas de statut permanent « libre » ou « occupée » pour une chambre.
