@@ -36,7 +36,6 @@ Un client et une chambre peuvent apparaître dans plusieurs réservations à des
 ## 4. Version de Python
 
 Le projet est développé en **Python 3**.  
-**Version exacte utilisée :** à compléter avec le résultat de `python --version` ou `python3 --version`.
 
 ## 5. Création de la base de données
 
